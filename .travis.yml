@@ -1,1 +1,1 @@
-script: sh entry.sh
+script: sh test.sh
